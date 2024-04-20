@@ -1,0 +1,1 @@
+This is a small to do app that is not finished yet😄 but will be finished soon😊. but in the meantime you can use it as a reference🌚. or add some more features.
